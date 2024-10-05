@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙂, I'm Kazi Mahathir Rahman</h1>
+<h1 align="center">Hi, I'm Kazi Mahathir Rahman 🤡</h1>
 <h3 align="center">A passionate data scientist and developer from Bangladesh </h3>
 
 <p align="center">
