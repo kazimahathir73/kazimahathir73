@@ -8,8 +8,9 @@
 </p>
 
 ## 🚀 About Me:
-- 🌱 I’m currently learning **NLP, Web scraping**
-- 👯 I’m looking forward to learn **Cyber security & networking**
+- 💼 I’m currently a **Data Scientist, Machine learning engineer, and Computer Vision Researcher**
+- 🛠️ I’m currently learning **NLP, Web scraping**
+- 🎯 I’m looking forward to learn **Cyber security & networking**
 - 💬 Ask me about any relevant question from my expertise field
 - 🌐 Visit my website **kazimahathir73.github.io**
 - 📫 How to reach me **mahathirmahim73@gmail.com**
@@ -43,8 +44,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimahathir73&show_icons=true&theme=radical" alt="kazimahathir73" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimahathir73&show_icons=true&locale=en&layout=compact&theme=radical" alt="kazimahathir73" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimahathir73&show_icons=true&theme=radical" alt="kazimahathir73" width="400" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kazimahathir73&show_icons=true&locale=en&layout=compact&theme=radical" alt="kazimahathir73" width="400" height="190"/>
 </p>
 
 ---
